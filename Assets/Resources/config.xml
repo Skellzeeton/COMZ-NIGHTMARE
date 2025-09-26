@@ -11,17 +11,17 @@
     <Avatar name="Worker" damageInitial="140" damageFinal="1250" hpInitial="420" hpFinal="5750" speedInitial="9" speedFinal="11" isCrystalBuy ="0" unlockDay="0" price="30000" hpWeight="1.1" hpPriceWeight="1.1" />
     <Avatar name="Nerd" damageInitial="140" damageFinal="900" hpInitial="650" hpFinal="6125" speedInitial="10" speedFinal="12" isCrystalBuy ="0" unlockDay="5" price="40000" hpWeight="1.15" hpPriceWeight="1.15" />
     <Avatar name="Doctor" damageInitial="90" damageFinal="600" hpInitial="600" hpFinal="4500" speedInitial="9" speedFinal="10.5" isCrystalBuy ="0" unlockDay="9" price="120000" hpWeight="1.25" hpPriceWeight="1.25" />
-    <Avatar name="Cowboy" damageInitial="190" damageFinal="1850" hpInitial="750" hpFinal="6300" speedInitial="10" speedFinal="13" isCrystalBuy ="1" unlockDay="0" price="10" hpWeight="1.3" hpPriceWeight="1.3" />
+    <Avatar name="Cowboy" damageInitial="190" damageFinal="1850" hpInitial="750" hpFinal="6300" speedInitial="10" speedFinal="13" isCrystalBuy ="1" unlockDay="5" price="10" hpWeight="1.3" hpPriceWeight="1.3" />
     <Avatar name="Swat" damageInitial="95" damageFinal="1425" hpInitial="925" hpFinal="9500" speedInitial="9.5" speedFinal="12" isCrystalBuy ="0" unlockDay="12" price="280000" hpWeight="1.35" hpPriceWeight="1.35" />
     <Avatar name="Marine" damageInitial="180" damageFinal="1800" hpInitial="1780" hpFinal="2800" speedInitial="9" speedFinal="11" isCrystalBuy ="0" unlockDay="16" price="250000" hpWeight="1.4" hpPriceWeight="1.4" />
     <Avatar name="EnegyArmor" damageInitial="100" damageFinal="800" hpInitial="1250" hpFinal="10250" speedInitial="8.5" speedFinal="12" isCrystalBuy ="1" unlockDay="0" price="199" hpWeight="1.9" hpPriceWeight="1.9" />
     <Avatar name="Pirate" damageInitial="220" damageFinal="240" hpInitial="2800" hpFinal="3200" speedInitial="9" speedFinal="11" isCrystalBuy ="1" unlockDay="0" price="60" hpWeight="1.6" hpPriceWeight="1.6" />
     <Avatar name="Ninja" damageInitial="180" damageFinal="210" hpInitial="2200" hpFinal="3000" speedInitial="10" speedFinal="13" isCrystalBuy ="0" unlockDay="21" price="400000" hpWeight="1.5" hpPriceWeight="1.5" />
-    <Avatar name="Pastor" damageInitial="230" damageFinal="250" hpInitial="3000" hpFinal="3400" speedInitial="11" speedFinal="11" isCrystalBuy ="1" unlockDay="0" price="80" hpWeight="1.7" hpPriceWeight="1.7" />
-    <Avatar name="Eskimo" damageInitial="270" damageFinal="270" hpInitial="3600" hpFinal="3600" speedInitial="11" speedFinal="12" isCrystalBuy ="1" unlockDay="0" price="100" hpWeight="1.8" hpPriceWeight="1.8" />
-    <Avatar name="Evil" damageInitial="270" damageFinal="290" hpInitial="3500" hpFinal="3900" speedInitial="12" speedFinal="12" isCrystalBuy ="1" unlockDay="0" price="149" hpWeight="1.95" hpPriceWeight="1.95" />
-    <Avatar name="Hunter" damageInitial="170" damageFinal="200" hpInitial="2800" hpFinal="2800" speedInitial="11" speedFinal="11" isCrystalBuy ="1" unlockDay="0" price="149" hpWeight="2.1" hpPriceWeight="2.1" />
-    <Avatar name="HumanPixel" damageInitial="145" damageFinal="2800" hpInitial="525" hpFinal="5650" speedInitial="9.5" speedFinal="12" isCrystalBuy ="0" unlockDay="2" price="5000" hpWeight="1.4" hpPriceWeight="1.4" />
+    <Avatar name="Pastor" damageInitial="230" damageFinal="250" hpInitial="3000" hpFinal="3400" speedInitial="11" speedFinal="11" isCrystalBuy ="1" unlockDay="25" price="80" hpWeight="1.7" hpPriceWeight="1.7" />
+    <Avatar name="Eskimo" damageInitial="270" damageFinal="270" hpInitial="3600" hpFinal="3600" speedInitial="11" speedFinal="12" isCrystalBuy ="1" unlockDay="35" price="100" hpWeight="1.8" hpPriceWeight="1.8" />
+    <Avatar name="Evil" damageInitial="270" damageFinal="290" hpInitial="3500" hpFinal="3900" speedInitial="12" speedFinal="12" isCrystalBuy ="1" unlockDay="50" price="149" hpWeight="1.95" hpPriceWeight="1.95" />
+    <Avatar name="Hunter" damageInitial="170" damageFinal="200" hpInitial="2800" hpFinal="2800" speedInitial="11" speedFinal="11" isCrystalBuy ="1" unlockDay="50" price="149" hpWeight="2.1" hpPriceWeight="2.1" />
+    <Avatar name="HumanPixel" damageInitial="145" damageFinal="280" hpInitial="350" hpFinal="3500" speedInitial="9.5" speedFinal="12" isCrystalBuy ="0" unlockDay="2" price="5000" hpWeight="1.4" hpPriceWeight="1.4" />
     <Avatar name="LanboPixel" damageInitial="280" damageFinal="280" hpInitial="4000" hpFinal="4000" speedInitial="12" speedFinal="12" isCrystalBuy ="1" unlockDay="0" price="149" hpWeight="2" hpPriceWeight="2" />
     <Avatar name="TechSilver" damageInitial="290" damageFinal="290" hpInitial="4800" hpFinal="4800" speedInitial="12" speedFinal="12" isCrystalBuy ="1" unlockDay="0" price="219" hpWeight="2.4" hpPriceWeight="2.4" />
     <Avatar name="TechGold" damageInitial="350" damageFinal="350" hpInitial="5500" hpFinal="5500" speedInitial="13" speedFinal="13" isCrystalBuy ="1" unlockDay="0" price="289" hpWeight="2.75" hpPriceWeight="2.75" />
@@ -37,12 +37,12 @@
     <Monster_Endless_Computing a1="1" b1="3.8" a2="20" b2="6" a3="50" b3="20" a4="150" b4="10" n1="5" n2="10" n3="15" n4="30" o="300"/>
     <Monster_MaxLoot_Expected_Computing day1="10" day2="80" day3="120" a1="20" a2="30" a3="50" b1="1.111111" b2="0.285714" b3="0.75"/>
     
-    <Monster name="Zombie" hpWeight="10.25" damageWeight="22.5" lootWeight="0.5625" attackFrequency="1.1" walkSpeed="25.75"/>
-    <Monster name="Nurse" hpWeight="13.5" damageWeight="225" lootWeight="0.75" attackFrequency="0.3" walkSpeed="11.25"/>
-    <Monster name="Tank" hpWeight="75" damageWeight="3000" lootWeight="10" attackFrequency="2.2" walkSpeed="22" rushSpeed="260" rushDamage="15000" rushAttack="5" rushRate="1"/>
+    <Monster name="Zombie" hpWeight="10.25" damageWeight="22.5" lootWeight="0.7" attackFrequency="1.1" walkSpeed="25.75"/>
+    <Monster name="Nurse" hpWeight="13.5" damageWeight="225" lootWeight="0.85" attackFrequency="0.3" walkSpeed="11.25"/>
+    <Monster name="Tank" hpWeight="75" damageWeight="500" lootWeight="11" attackFrequency="2.2" walkSpeed="22" rushSpeed="260" rushDamage="15000" rushAttack="5" rushRate="1"/>
     <Monster name="Boomer" hpWeight="0.1" damageWeight="30000" lootWeight="0.25" attackFrequency="1" walkSpeed="16.5"/>
-    <Monster name="Swat" hpWeight="18.5" damageWeight="2500" lootWeight="3" attackFrequency="3" walkSpeed="512"/>
-    <Monster name="Dog" hpWeight="13.75" damageWeight="25.5" lootWeight="2" attackFrequency="2" walkSpeed="18"/>
+    <Monster name="Swat" hpWeight="18.5" damageWeight="2500" lootWeight="3.5" attackFrequency="3" walkSpeed="512"/>
+    <Monster name="Dog" hpWeight="13.75" damageWeight="25.5" lootWeight="2.25" attackFrequency="2" walkSpeed="18"/>
     <Monster name="Police" hpWeight="15" damageWeight="200000" lootWeight="2.75" attackFrequency="3.5" walkSpeed="10.8"/>
     <Monster name="HellFirer" hpWeight="18" damageWeight="12" lootWeight="6" attackFrequency="1.5" walkSpeed="10"/>
     <Monster name="Veloci" hpWeight="14" damageWeight="4" lootWeight="0.375" attackFrequency="3" walkSpeed="16"/>
@@ -470,20 +470,20 @@
       <VSFrequencyPara base="0.18" delta="-0.003"/>
     </Weapon>
     
-    <Weapon name="M4" type="AssaultRifle" moveSpeedDrag="1.4" range ="16" price ="120000" initBullet="800" bulletPrice="1500" bullet="2500" startEquip = "0" crystalBuy ="1" unlockLevel ="10">
+    <Weapon name="M4" type="AssaultRifle" moveSpeedDrag="1.4" range ="16" price ="240000" initBullet="800" bulletPrice="1500" bullet="2500" startEquip = "0" crystalBuy ="1" unlockLevel ="10">
       <AttributesUpgrade damageInitial="71.5" damageFinal="242.5" frequencyInitial="0.2" frequencyFinal="0.1" accuracyInitial="70" accuracyFinal="105" priceWeight="1.15"/>
       <VSDamagePara base="31.6" delta="2.541" delta2="14.033"/>
       <VSFrequencyPara base="0.2" delta="-0.003"/>
     </Weapon>
     
-    <Weapon name="AK-47" type="AssaultRifle" moveSpeedDrag="1.6" range ="13" price ="35000" initBullet="800" bulletPrice="2500" bullet="500" startEquip = "0" crystalBuy ="0" unlockLevel ="7">
+    <Weapon name="AK-47" type="AssaultRifle" moveSpeedDrag="1.6" range ="13" price ="55000" initBullet="800" bulletPrice="2500" bullet="500" startEquip = "0" crystalBuy ="0" unlockLevel ="7">
       <AttributesUpgrade damageInitial="80" damageFinal="185" frequencyInitial="0.25" frequencyFinal="0.1" accuracyInitial="60" accuracyFinal="84.6" priceWeight="1.1"/>
       <VSDamagePara base="40.5" delta="3.448" delta2="18.74"/>
       <VSFrequencyPara base="0.25" delta="-0.004"/>
     </Weapon>
 
     <Weapon name="AUG" type="AssaultRifle" moveSpeedDrag="1.2" range ="15" price ="5" initBullet="800" bulletPrice="4500" bullet="2500" startEquip = "1" crystalBuy ="1" unlockLevel ="0">
-      <AttributesUpgrade damageInitial="128.5" damageFinal="250" frequencyInitial="0.2" frequencyFinal="0.1" accuracyInitial="75" accuracyFinal="94.4" priceWeight="2.8"/>
+      <AttributesUpgrade damageInitial="138.5" damageFinal="450" frequencyInitial="0.2" frequencyFinal="0.1" accuracyInitial="75" accuracyFinal="94.4" priceWeight="2.8"/>
       <VSDamagePara base="30" delta="2.031" delta2="11.85"/>
       <VSFrequencyPara base="0.18" delta="-0.003"/>
     </Weapon>
@@ -494,13 +494,13 @@
       <VSFrequencyPara base="1" delta="-0.013"/>
     </Weapon>
     
-    <Weapon name="XM-1014" type="ShotGun" moveSpeedDrag="1.4" range ="6.0" price ="150000" initBullet="500" bulletPrice="1500" bullet="500" startEquip = "0" crystalBuy ="0" unlockLevel ="4">
-      <AttributesUpgrade damageInitial="195.4" damageFinal="825.5" frequencyInitial="0.5" frequencyFinal="0.5" accuracyInitial="55" accuracyFinal="88.5" priceWeight="2.2"/>
+    <Weapon name="XM-1014" type="ShotGun" moveSpeedDrag="1.4" range ="6.0" price ="150000" initBullet="500" bulletPrice="1500" bullet="500" startEquip = "0" crystalBuy ="0" unlockLevel ="5">
+      <AttributesUpgrade damageInitial="175.4" damageFinal="725.5" frequencyInitial="0.5" frequencyFinal="0.5" accuracyInitial="55" accuracyFinal="88.5" priceWeight="2.2"/>
       <VSDamagePara base="90.9" delta="12.096" delta2="61.447"/>
       <VSFrequencyPara base="0.85" delta="-0.011"/>
     </Weapon>
     
-    <Weapon name="Remington-870" type="ShotGun" moveSpeedDrag="1.5" range ="5.5" price ="12" initBullet="500" bulletPrice="6000" bullet="500" startEquip = "1" crystalBuy ="1" unlockLevel ="0">
+    <Weapon name="Remington-870" type="ShotGun" moveSpeedDrag="1.5" range ="5.5" price ="12" initBullet="500" bulletPrice="6000" bullet="500" startEquip = "1" crystalBuy ="1" unlockLevel ="15">
       <AttributesUpgrade damageInitial="265" damageFinal="780.5" frequencyInitial="0.5" frequencyFinal="0.2" accuracyInitial="50" accuracyFinal="115" priceWeight="4"/>
       <VSDamagePara base="171.4" delta="15.107" delta2="81.27"/>
       <VSFrequencyPara base="1.2" delta="-0.019"/>
@@ -512,56 +512,56 @@
       <VSFrequencyPara base="0.2" delta="0"/>
     </Weapon>
 
-    <Weapon name="Gatling" type="MachineGun" moveSpeedDrag="3.0" range ="20" price ="12" initBullet="1800" bulletPrice="8000" bullet="5000" startEquip = "1" crystalBuy ="1" unlockLevel ="0">
+    <Weapon name="Gatling" type="MachineGun" moveSpeedDrag="3.0" range ="20" price ="12" initBullet="1800" bulletPrice="8000" bullet="5000" startEquip = "1" crystalBuy ="1" unlockLevel ="15">
       <AttributesUpgrade damageInitial="62.5" damageFinal="230" frequencyInitial="0.1" frequencyFinal="0.05" accuracyInitial="50" accuracyFinal="73.4" priceWeight="3.5"/>
       <VSDamagePara base="45" delta="2.759" delta2="16.667"/>
       <VSFrequencyPara base="0.12" delta="-0.002"/>
     </Weapon>
 
-    <Weapon name="RPG-7" type="RocketLauncher" moveSpeedDrag="3.0" range ="9" price ="3200000" initBullet="250" bulletPrice="5000" bullet="250" flySpeed="50" startEquip = "0" crystalBuy ="0" unlockLevel ="25">
-      <AttributesUpgrade damageInitial="885" damageFinal="3950" frequencyInitial="0.75" frequencyFinal="0.5" accuracyInitial="100" accuracyFinal="100" priceWeight="2.8"/>
+    <Weapon name="RPG-7" type="RocketLauncher" moveSpeedDrag="3.0" range ="9" price ="4200000" initBullet="250" bulletPrice="5000" bullet="250" flySpeed="50" startEquip = "0" crystalBuy ="0" unlockLevel ="25">
+      <AttributesUpgrade damageInitial="885" damageFinal="3500" frequencyInitial="0.75" frequencyFinal="0.5" accuracyInitial="100" accuracyFinal="100" priceWeight="2.8"/>
       <VSDamagePara base="270" delta="18.966" delta2="109.333"/>
       <VSFrequencyPara base="1.8" delta="-0.034"/>
     </Weapon>
 
-    <Weapon name="Laser" type="LaserGun" moveSpeedDrag="1.3" range ="200" price ="400000" initBullet="3000" bulletPrice="4000" bullet="2000" flySpeed="0" startEquip = "0" crystalBuy ="0" unlockLevel ="17">
-      <AttributesUpgrade damageInitial="48.2" damageFinal="280.2" frequencyInitial="0.1" frequencyFinal="0.1" accuracyInitial="100" accuracyFinal="100" priceWeight="2.8"/>
+    <Weapon name="Laser" type="LaserGun" moveSpeedDrag="1.3" range ="200" price ="900000" initBullet="3000" bulletPrice="4000" bullet="2000" flySpeed="0" startEquip = "0" crystalBuy ="0" unlockLevel ="15">
+      <AttributesUpgrade damageInitial="40.2" damageFinal="280.2" frequencyInitial="0.1" frequencyFinal="0.1" accuracyInitial="100" accuracyFinal="100" priceWeight="2.8"/>
       <VSDamagePara base="15" delta="2.913" delta2="13.333"/>
       <VSFrequencyPara base="0.1" delta="0"/>
     </Weapon>
 
-    <Weapon name="PGM" type="Sniper" moveSpeedDrag="2.6" range ="5" price ="100" initBullet="300" bulletPrice="8000" bullet="100" flySpeed="18" startEquip = "1" crystalBuy ="1" unlockLevel ="0">
-      <AttributesUpgrade damageInitial="320.1" damageFinal="4525.6" frequencyInitial="0.5" frequencyFinal="0.2" accuracyInitial="100" accuracyFinal="100" priceWeight="4"/>
+    <Weapon name="PGM" type="Sniper" moveSpeedDrag="2.6" range ="5" price ="60" initBullet="300" bulletPrice="8000" bullet="100" flySpeed="18" startEquip = "1" crystalBuy ="1" unlockLevel ="50">
+      <AttributesUpgrade damageInitial="500" damageFinal="1000" frequencyInitial="0.5" frequencyFinal="0.25" accuracyInitial="100" accuracyFinal="100" priceWeight="4"/>
       <VSDamagePara base="180" delta="6.207" delta2="48"/>
       <VSFrequencyPara base="0.6" delta="-0.014"/>
     </Weapon>
 
-    <Weapon name="LightSword" type="Sword" moveSpeedDrag="1" range ="162.5" price ="12" initBullet ="0" bulletPrice="0" bullet="0" flySpeed="18" startEquip = "1" crystalBuy ="1" unlockLevel ="0">
+    <Weapon name="LightSword" type="Sword" moveSpeedDrag="1" range ="162.5" price ="12" initBullet ="0" bulletPrice="0" bullet="0" flySpeed="18" startEquip = "1" crystalBuy ="1" unlockLevel ="15">
       <AttributesUpgrade damageInitial="150" damageFinal="1050" frequencyInitial="0.2" frequencyFinal="0.2" accuracyInitial="100" accuracyFinal="100" priceWeight="3.2"/>
       <VSDamagePara base="37.5" delta="7.328" delta2="33.333"/>
       <VSFrequencyPara base="0.1" delta="0"/>
     </Weapon>
 
-    <Weapon name="M32" type="M32" moveSpeedDrag="3.0" range ="3.5" price ="2700000" initBullet="100" bulletPrice="16000" bullet="50" flySpeed="15" startEquip = "0" crystalBuy ="0" unlockLevel ="19">
+    <Weapon name="M32" type="M32" moveSpeedDrag="3.0" range ="3.5" price ="3700000" initBullet="100" bulletPrice="16000" bullet="50" flySpeed="15" startEquip = "0" crystalBuy ="0" unlockLevel ="25">
       <AttributesUpgrade damageInitial="10000" damageFinal="70000" frequencyInitial="20" frequencyFinal="15" accuracyInitial="100" accuracyFinal="100" priceWeight="6.4"/>
       <VSDamagePara base="120" delta="2.414" delta2="25.333"/>
       <VSFrequencyPara base="0.8" delta="-0.021"/>
     </Weapon>
     
-    <Weapon name="Flamethrower" type="FireGun" moveSpeedDrag="1.5" range ="3.5" price ="200000" initBullet="1250" bulletPrice="6000" bullet="1000" flySpeed="0" startEquip = "0" crystalBuy ="0" unlockLevel ="23">
-      <AttributesUpgrade damageInitial="40" damageFinal="250" frequencyInitial="0.1" frequencyFinal="0.1" accuracyInitial="100" accuracyFinal="100" priceWeight="3.2"/>
+    <Weapon name="Flamethrower" type="FireGun" moveSpeedDrag="1.5" range ="3.5" price ="1100000" initBullet="1250" bulletPrice="6000" bullet="1000" flySpeed="0" startEquip = "0" crystalBuy ="0" unlockLevel ="15">
+      <AttributesUpgrade damageInitial="22" damageFinal="185" frequencyInitial="0.1" frequencyFinal="0.1" accuracyInitial="100" accuracyFinal="100" priceWeight="3.2"/>
       <VSDamagePara base="16.7" delta="3.255" delta2="14.817"/>
       <VSFrequencyPara base="0.1" delta="0"/>
     </Weapon>
 
-    <Weapon name="Ion-Cannon" type="ElectricGun" moveSpeedDrag="2.5" range ="5" price ="90" initBullet="500" bulletPrice="9999" bullet="250" flySpeed="50" startEquip = "1" crystalBuy ="1" unlockLevel ="0">
-      <AttributesUpgrade damageInitial="2250.25" damageFinal="16576.5" frequencyInitial="2" frequencyFinal="2" accuracyInitial="100" accuracyFinal="100" priceWeight="4"/>
+    <Weapon name="Ion-Cannon" type="ElectricGun" moveSpeedDrag="2.5" range ="5" price ="90" initBullet="500" bulletPrice="9999" bullet="250" flySpeed="50" startEquip = "1" crystalBuy ="1" unlockLevel ="50">
+      <AttributesUpgrade damageInitial="7250.25" damageFinal="46576.5" frequencyInitial="10" frequencyFinal="10" accuracyInitial="100" accuracyFinal="100" priceWeight="4"/>
       <VSDamagePara base="240" delta="58.621" delta2="266.667"/>
       <VSFrequencyPara base="1.6" delta="0"/>
     </Weapon>
 
-    <Weapon name="Dragon-Breath" type="ElectricGun" moveSpeedDrag="2.5" range ="3" price ="90" initBullet="500" bulletPrice="12999" bullet="250" flySpeed="100" startEquip = "1" crystalBuy ="1" unlockLevel ="0">
-      <AttributesUpgrade damageInitial="850" damageFinal="2750" frequencyInitial="1" frequencyFinal="0.4" accuracyInitial="100" accuracyFinal="100" priceWeight="6"/>
+    <Weapon name="Dragon-Breath" type="ElectricGun" moveSpeedDrag="2.5" range ="3" price ="90" initBullet="500" bulletPrice="12999" bullet="250" flySpeed="100" startEquip = "1" crystalBuy ="1" unlockLevel ="50">
+      <AttributesUpgrade damageInitial="850" damageFinal="2750" frequencyInitial="1" frequencyFinal="0.5" accuracyInitial="100" accuracyFinal="100" priceWeight="6"/>
       <VSDamagePara base="214.3" delta="41.872" delta2="190.477"/>
       <VSFrequencyPara base="1" delta="0"/>
     </Weapon>
@@ -572,26 +572,26 @@
       <VSFrequencyPara base="1.2" delta="-0.024"/>
     </Weapon>
 
-    <Weapon name="Pixel-RPG" type="RocketLauncher" moveSpeedDrag="3.0" range ="9" price ="3200000" initBullet="100" bulletPrice="5000" bullet="50" flySpeed="50" startEquip = "0" crystalBuy ="0" unlockLevel ="3">
-      <AttributesUpgrade damageInitial="2747.5" damageFinal="8950" frequencyInitial="2" frequencyFinal="1" accuracyInitial="100" accuracyFinal="100" priceWeight="3.5"/>
+    <Weapon name="Pixel-RPG" type="RocketLauncher" moveSpeedDrag="3.25" range ="10.5" price ="4200000" initBullet="100" bulletPrice="5000" bullet="50" flySpeed="50" startEquip = "0" crystalBuy ="0" unlockLevel ="25">
+      <AttributesUpgrade damageInitial="700" damageFinal="3100" frequencyInitial="2" frequencyFinal="1" accuracyInitial="100" accuracyFinal="100" priceWeight="3.5"/>
       <VSDamagePara base="270" delta="18.966" delta2="109.333"/>
       <VSFrequencyPara base="1.8" delta="-0.034"/>
     </Weapon>
 
-    <Weapon name="Pixel-Cannon" type="ElectricGun" moveSpeedDrag="2.5" range ="3" price ="11199" initBullet="200" bulletPrice="12999" bullet="50" flySpeed="100" startEquip = "1" crystalBuy ="1" unlockLevel ="0">
+    <Weapon name="Pixel-Cannon" type="ElectricGun" moveSpeedDrag="2.5" range ="3" price ="11199" initBullet="200" bulletPrice="12999" bullet="50" flySpeed="100" startEquip = "1" crystalBuy ="1" unlockLevel ="5000">
       <AttributesUpgrade damageInitial="227.5" damageFinal="6912.5" frequencyInitial="1" frequencyFinal="1" accuracyInitial="100" accuracyFinal="100" priceWeight="7"/>
       <VSDamagePara base="214.3" delta="41.872" delta2="190.477"/>
       <VSFrequencyPara base="1" delta="0"/>
     </Weapon>
 
-    <Weapon name="Longinus-Silver" type="M32" moveSpeedDrag="2.5" range ="3" price ="10500000" initBullet="500" bulletPrice="18000" bullet="500" flySpeed="20" startEquip = "1" crystalBuy ="0" unlockLevel ="0">
-      <AttributesUpgrade damageInitial="1492.4" damageFinal="5550" frequencyInitial="1" frequencyFinal="0.5" accuracyInitial="100" accuracyFinal="100" priceWeight="7.5"/>
+    <Weapon name="Longinus-Silver" type="M32" moveSpeedDrag="2.5" range ="3" price ="20500000" initBullet="500" bulletPrice="160000" bullet="500" flySpeed="20" startEquip = "1" crystalBuy ="0" unlockLevel ="100">
+      <AttributesUpgrade damageInitial="1192.4" damageFinal="7354" frequencyInitial="1" frequencyFinal="0.5" accuracyInitial="100" accuracyFinal="100" priceWeight="7.5"/>
       <VSDamagePara base="270" delta="48.162" delta2="222.22"/>
       <VSFrequencyPara base="1.8" delta="-0.028"/>
     </Weapon>
 
-    <Weapon name="Longinus-Gold" type="ElectricGun" moveSpeedDrag="2.5" range ="3" price ="229" initBullet="200" bulletPrice="22000" bullet="100" flySpeed="50" startEquip = "1" crystalBuy ="1" unlockLevel ="0">
-      <AttributesUpgrade damageInitial="1850" damageFinal="6275.9" frequencyInitial="1" frequencyFinal="0.4" accuracyInitial="100" accuracyFinal="100" priceWeight="8"/>
+    <Weapon name="Longinus-Gold" type="ElectricGun" moveSpeedDrag="2.5" range ="3" price ="60000000" initBullet="200" bulletPrice="220000" bullet="100" flySpeed="50" startEquip = "1" crystalBuy ="1" unlockLevel ="100">
+      <AttributesUpgrade damageInitial="1850" damageFinal="8275" frequencyInitial="1" frequencyFinal="0.4" accuracyInitial="100" accuracyFinal="100" priceWeight="8"/>
       <VSDamagePara base="284.2" delta="52.897" delta2="242.423"/>
       <VSFrequencyPara base="1.8" delta="-0.028"/>
     </Weapon>
@@ -635,15 +635,15 @@
   <EnemySpawns>
 
     <CoopBoss>
-      <BossMap name="Arena" day="5" bossDamage="450" bossHp="47500" />
-      <BossMap name="PowerStation" day="30" bossDamage="1600" bossHp="175000" />
-      <BossMap name="Village" day="20" bossDamage="650000" bossHp="375000" />
-      <BossMap name="ParkingLot" day="50" bossDamage="125000" bossHp="1550000" />
-      <BossMap name="Hospital" day="65" bossDamage="150000" bossHp="1000000" />
-      <BossMap name="Church" day="80" bossDamage="200000" bossHp="1750000" />
-      <BossMap name="Village2" day="75" bossDamage="1750" bossHp="1400000" />
-      <BossMap name="Recycle" day="75" bossDamage="1750" bossHp="2150000" />
-      <BossMap name="PlayGround" day="100" bossDamage="2500" bossHp="2000000" />
+      <BossMap name="Arena" day="5" bossDamage="450" bossHp="57500" />
+      <BossMap name="PowerStation" day="30" bossDamage="1600" bossHp="185000" />
+      <BossMap name="Village" day="20" bossDamage="650000" bossHp="395000" />
+      <BossMap name="ParkingLot" day="50" bossDamage="125000" bossHp="1750000" />
+      <BossMap name="Hospital" day="65" bossDamage="150000" bossHp="1100000" />
+      <BossMap name="Church" day="80" bossDamage="200000" bossHp="1950000" />
+      <BossMap name="Village2" day="75" bossDamage="1750" bossHp="1600000" />
+      <BossMap name="Recycle" day="75" bossDamage="1750" bossHp="2350000" />
+      <BossMap name="PlayGround" day="100" bossDamage="2500" bossHp="2500000" />
     </CoopBoss>
     
     <Level name ="Day 1">
@@ -802,22 +802,22 @@
     <Level name ="Day 5" >
 
       <Round intermission="1">
-        <Enemy id="Tank" count ="3" from ="door"/>
-        <Enemy id="boomer" count ="22" from ="door"/>
-		    <Enemy id="dog" count ="28" from ="door"/>
+        <Enemy id="Tank" count ="2" from ="door"/>
+        <Enemy id="boomer" count ="12" from ="door"/>
+		    <Enemy id="dog" count ="20" from ="door"/>
       </Round>
 
       <Round intermission="6">
-        <Enemy id="boomer" count ="16" from ="door"/>
+        <Enemy id="boomer" count ="12" from ="door"/>
         <Enemy id="zombie" count ="24" from ="grave"/>
         <Enemy id="dog" count ="24" from ="door"/>
-		    <Enemy id="nurse" count ="20" from ="door"/>
+		    <Enemy id="nurse" count ="8" from ="door"/>
       </Round>
 
       <Round intermission="8">
         <Enemy id="tank" count ="1" from ="grave"/>
-		    <Enemy id="tank" count ="2" from ="door"/>
-		    <Enemy id="boomer" count ="4" from ="grave"/>
+		    <Enemy id="tank" count ="1" from ="door"/>
+		    <Enemy id="boomer" count ="2" from ="grave"/>
       </Round>
 
       <Round intermission="3">
@@ -833,15 +833,15 @@
       </Round>
 
       <Round intermission="8">
-        <Enemy id="boomer" count ="16" from ="door"/>
-        <Enemy id="zombie" count ="20" from ="door"/>
-        <Enemy id="dog" count ="32" from ="door"/>
-		    <Enemy id="tank" count ="2" from ="door"/>
+        <Enemy id="boomer" count ="12" from ="door"/>
+        <Enemy id="zombie" count ="16" from ="door"/>
+        <Enemy id="dog" count ="24" from ="door"/>
+		    <Enemy id="tank" count ="1" from ="door"/>
       </Round>
 
       <Round intermission="10">
         <Enemy id="boomer" count ="20" from ="door"/>
-        <Enemy id="tank" count ="3" from ="door"/>
+        <Enemy id="tank" count ="2" from ="door"/>
       
 	  </Round>
 	  
@@ -1347,20 +1347,20 @@
 
       <Round intermission="8">
         <Enemy id="tank" count ="4" from ="door"/>
-        <Enemy id="tank" count ="4" from ="door"/>
-		    <Enemy id="dog" count ="24" from ="door"/>
+        <Enemy id="tank" count ="12" from ="door"/>
+		    <Enemy id="dog" count ="48" from ="door"/>
       </Round>
 
       <Round intermission="9">
-        <Enemy id="tank" count ="4" from ="door"/>
+        <Enemy id="tank" count ="6" from ="door"/>
         <Enemy id="zombie" count ="12" from ="grave"/>
         <Enemy id="boomer" count ="96" from ="door"/>
       </Round>
 
       <Round intermission="6">
         <Enemy id="tank" count ="4" from ="door"/>
-		    <Enemy id="dog" count ="16" from ="grave"/>
-		    <Enemy id="nurse" count ="24" from ="grave"/>
+		    <Enemy id="dog" count ="32" from ="grave"/>
+		    <Enemy id="nurse" count ="96" from ="grave"/>
       </Round>
 
       <Round intermission="6">
@@ -1381,7 +1381,7 @@
       </Round>
 
       <Round intermission="6">
-        <Enemy id="tank" count ="3" from ="grave"/>
+        <Enemy id="tank" count ="8" from ="grave"/>
         <Enemy id="swat" count ="32" from ="door"/>
       </Round>
 
@@ -1688,54 +1688,54 @@
     <Level name ="Day 20" >
 
       <Round intermission="1">
-        <Enemy id="zombie" count ="5" from ="grave"/>
+        <Enemy id="zombie" count ="12" from ="grave"/>
       </Round>
 
       <Round intermission="2">
-        <Enemy id="zombie" count ="3" from ="grave"/>
-		    <Enemy id="dog" count ="3" from ="grave"/>
-		    <Enemy id="police" count ="2" from ="grave"/>
+        <Enemy id="zombie" count ="4" from ="grave"/>
+		    <Enemy id="dog" count ="4" from ="grave"/>
+		    <Enemy id="boomer" count ="8" from ="grave"/>
       </Round>
 
       <Round intermission="3">
-        <Enemy id="zombie" count ="4" from ="grave"/>
-		    <Enemy id="dog" count ="3" from ="door"/>
-		    <Enemy id="police" count ="2" from ="door"/>
+        <Enemy id="zombie" count ="16" from ="grave"/>
+		    <Enemy id="dog" count ="32" from ="door"/>
+		    <Enemy id="police" count ="48" from ="door"/>
       </Round>
 
       <Round intermission="5">
-        <Enemy id="tank" count ="1" from ="door"/>
-        <Enemy id="nurse" count ="4" from ="door"/>
+        <Enemy id="tank" count ="20" from ="door"/>
+        <Enemy id="nurse" count ="48" from ="door"/>
       </Round>
 
       <Round intermission="7">
-        <Enemy id="swat" count ="1" from ="door"/>
-        <Enemy id="zombie" count ="4" from ="grave"/>
+        <Enemy id="swat" count ="12" from ="door"/>
+        <Enemy id="zombie" count ="24" from ="grave"/>
       </Round>
 
       <Round intermission="5">
-        <Enemy id="zombie" count ="5" from ="grave"/>
-		    <Enemy id="police" count ="3" from ="door"/>
+        <Enemy id="boomer" count ="24" from ="grave"/>
+		    <Enemy id="tank" count ="8" from ="door"/>
       </Round>
 
       <Round intermission="5">
-        <Enemy id="zombie" count ="3" from ="grave"/>
-        <Enemy id="boomer" count ="2" from ="door"/>
+        <Enemy id="zombie" count ="32" from ="grave"/>
+        <Enemy id="boomer" count ="4" from ="door"/>
 		    <Enemy id="dog" count ="2" from ="grave"/>
-		    <Enemy id="police" count ="2" from ="grave"/>
+		    <Enemy id="police" count ="24" from ="grave"/>
       </Round>
 
       <Round intermission="6">
-        <Enemy id="swat" count ="3" from ="door"/>
-        <Enemy id="boomer" count ="3" from ="door"/>
-		    <Enemy id="dog" count ="3" from ="grave"/>
-		    <Enemy id="police" count ="1" from ="door"/>
+        <Enemy id="swat" count ="24" from ="door"/>
+        <Enemy id="boomer" count ="8" from ="door"/>
+		    <Enemy id="dog" count ="24" from ="grave"/>
+		    <Enemy id="police" count ="4" from ="door"/>
       </Round>
 
       <Round intermission="4">
         <Enemy id="zombie" count ="4" from ="grave"/>
-		    <Enemy id="dog" count ="3" from ="door"/>
-		    <Enemy id="police" count ="3" from ="door"/>
+		    <Enemy id="dog" count ="4" from ="door"/>
+		    <Enemy id="police" count ="4" from ="door"/>
       </Round>
 
       <Round intermission="6">
@@ -1744,25 +1744,25 @@
       </Round>
 
       <Round intermission="4">
-        <Enemy id="nurse" count ="3" from ="door"/>
-        <Enemy id="zombie" count ="5" from ="grave"/>
+        <Enemy id="nurse" count ="48" from ="door"/>
+        <Enemy id="zombie" count ="12" from ="grave"/>
       </Round>
 
       <Round intermission="6">
-        <Enemy id="zombie" count ="4" from ="grave"/>
-        <Enemy id="swat" count ="1" from ="door"/>
+        <Enemy id="zombie" count ="12" from ="grave"/>
+        <Enemy id="swat" count ="4" from ="door"/>
       </Round>
 
       <Round intermission="5">
-        <Enemy id="swat" count ="3" from ="door"/>
-        <Enemy id="zombie" count ="4" from ="door"/>
-		    <Enemy id="dog" count ="3" from ="grave"/>
-		    <Enemy id="police" count ="2" from ="grave"/>
+        <Enemy id="swat" count ="8" from ="door"/>
+        <Enemy id="zombie" count ="12" from ="door"/>
+		    <Enemy id="dog" count ="4" from ="grave"/>
+		    <Enemy id="police" count ="12" from ="grave"/>
       </Round>
 
       <Round intermission="3">
-        <Enemy id="zombie" count ="3" from ="grave"/>
-		    <Enemy id="dog" count ="3" from ="door"/>
+        <Enemy id="zombie" count ="4" from ="grave"/>
+		    <Enemy id="dog" count ="4" from ="door"/>
 		    <Enemy id="police" count ="2" from ="door"/>
       </Round>
 
@@ -1782,13 +1782,13 @@
       </Round>
 
       <Round intermission="2">
-        <Enemy id="nurse" count ="3" from ="grave"/>
-		    <Enemy id="dog" count ="3" from ="grave"/>
+        <Enemy id="nurse" count ="24" from ="grave"/>
+		    <Enemy id="dog" count ="4" from ="grave"/>
       </Round>
 
       <Round intermission="5">
         <Enemy id="zombie" count ="4" from ="grave"/>
-        <Enemy id="boomer" count ="2" from ="door"/>
+        <Enemy id="boomer" count ="8" from ="door"/>
       </Round>
 
       <Round intermission="4">
@@ -2200,12 +2200,12 @@
       </Round>
 
       <Round intermission="5">
-        <Enemy id="tank" count ="1" from ="grave"/>
+        <Enemy id="tank" count ="4" from ="grave"/>
         <Enemy id="zombie" count ="3" from ="grave"/>
       </Round>
 
       <Round intermission="4">
-        <Enemy id="zombie" count ="4" from ="grave"/>
+        <Enemy id="zombie" count ="400" from ="grave"/>
 		    <Enemy id="dog" count ="3" from ="door"/>
       </Round>
 
@@ -2224,69 +2224,69 @@
     <Level name ="Day 25" >
 
       <Round intermission="1">
-        <Enemy id="tank" count ="1" from ="door"/>
-        <Enemy id="nurse" count ="3" from ="door"/>
-        <Enemy id="zombie" count ="5" from ="door"/>
-        <Enemy id="zombie" count ="5" from ="grave"/>
+        <Enemy id="tank" count ="32" from ="door"/>
+        <Enemy id="nurse" count ="96" from ="door"/>
+        <Enemy id="zombie" count ="48" from ="door"/>
+        <Enemy id="zombie" count ="24" from ="grave"/>
       </Round>
 
       <Round intermission="7">
-        <Enemy id="zombie" count ="4" from ="grave"/>
-        <Enemy id="nurse" count ="2" from ="grave"/>
-		    <Enemy id="dog" count ="3" from ="door"/>
-		    <Enemy id="police" count ="2" from ="grave"/>
+        <Enemy id="zombie" count ="12" from ="grave"/>
+        <Enemy id="boomer" count ="96" from ="grave"/>
+		    <Enemy id="dog" count ="8" from ="door"/>
+		    <Enemy id="police" count ="8" from ="grave"/>
       </Round>
 
       <Round intermission="5">
         <Enemy id="zombie" count ="4" from ="grave"/>
-		    <Enemy id="dog" count ="3" from ="door"/>
-		    <Enemy id="police" count ="4" from ="door"/>
+		    <Enemy id="dog" count ="4" from ="door"/>
+		    <Enemy id="police" count ="24" from ="door"/>
       </Round>
 
       <Round intermission="4">
-        <Enemy id="zombie" count ="4" from ="grave"/>
-		    <Enemy id="dog" count ="5" from ="door"/>
+        <Enemy id="zombie" count ="40" from ="grave"/>
+		    <Enemy id="dog" count ="56" from ="door"/>
       </Round>
 
       <Round intermission="4">
-        <Enemy id="zombie" count ="4" from ="grave"/>
+        <Enemy id="zombie" count ="96" from ="grave"/>
       </Round>
 
       <Round intermission="5">
-        <Enemy id="tank" count ="1" from ="door"/>
-        <Enemy id="zombie" count ="4" from ="grave"/>
-        <Enemy id="zombie" count ="3" from ="door"/>
+        <Enemy id="tank" count ="12" from ="door"/>
+        <Enemy id="zombie" count ="48" from ="grave"/>
+        <Enemy id="zombie" count ="8" from ="door"/>
       </Round>
 
       <Round intermission="4">
-        <Enemy id="boomer" count ="2" from ="grave"/>
+        <Enemy id="boomer" count ="16" from ="grave"/>
         <Enemy id="zombie" count ="4" from ="grave"/>
-		    <Enemy id="police" count ="2" from ="grave"/>
+		    <Enemy id="police" count ="24" from ="grave"/>
       </Round>
 
       <Round intermission="5">
-        <Enemy id="zombie" count ="3" from ="grave"/>
-		    <Enemy id="dog" count ="3" from ="door"/>
+        <Enemy id="zombie" count ="172" from ="grave"/>
+		    <Enemy id="dog" count ="32" from ="door"/>
       </Round>
 
       <Round intermission="6">
-        <Enemy id="tank" count ="1" from ="door"/>
-        <Enemy id="zombie" count ="5" from ="grave"/>
+        <Enemy id="tank" count ="8" from ="door"/>
+        <Enemy id="zombie" count ="56" from ="grave"/>
       </Round>
 
       <Round intermission="6">
-        <Enemy id="nurse" count ="3" from ="door"/>
-        <Enemy id="zombie" count ="5" from ="grave"/>
+        <Enemy id="swat" count ="96" from ="door"/>
+        <Enemy id="boomer" count ="16" from ="grave"/>
       </Round>
 
       <Round intermission="6">
-        <Enemy id="boomer" count ="2" from ="door"/>
-        <Enemy id="zombie" count ="5" from ="grave"/>
-		    <Enemy id="police" count ="2" from ="grave"/>
+        <Enemy id="boomer" count ="8" from ="door"/>
+        <Enemy id="zombie" count ="24" from ="grave"/>
+		    <Enemy id="police" count ="24" from ="grave"/>
       </Round>
 
       <Round intermission="5">
-        <Enemy id="zombie" count ="5" from ="grave"/>
+        <Enemy id="zombie" count ="8" from ="grave"/>
       </Round>
 
       <Round intermission="3">
@@ -2294,29 +2294,29 @@
       </Round>
 
       <Round intermission="5">
-        <Enemy id="tank" count ="1" from ="door"/>
-        <Enemy id="swat" count ="3" from ="door"/>
+        <Enemy id="tank" count ="2" from ="door"/>
+        <Enemy id="swat" count ="4" from ="door"/>
       </Round>
 
       <Round intermission="3">
         <Enemy id="zombie" count ="4" from ="grave"/>
-		    <Enemy id="dog" count ="3" from ="door"/>
-		    <Enemy id="police" count ="3" from ="door"/>
+		    <Enemy id="dog" count ="32" from ="door"/>
+		    <Enemy id="police" count ="32" from ="door"/>
       </Round>
 
       <Round intermission="4">
         <Enemy id="zombie" count ="4" from ="grave"/>
 		    <Enemy id="dog" count ="3" from ="door"/>
+      </Round>
+
+      <Round intermission="4">
+        <Enemy id="nurse" count ="24" from ="grave"/>
+        <Enemy id="zombie" count ="5" from ="grave"/>
       </Round>
 
       <Round intermission="4">
         <Enemy id="nurse" count ="2" from ="grave"/>
         <Enemy id="zombie" count ="5" from ="grave"/>
-      </Round>
-
-      <Round intermission="4">
-        <Enemy id="nurse" count ="2" from ="grave"/>
-        <Enemy id="zombie" count ="5" from ="grave"/>
 		    <Enemy id="police" count ="2" from ="grave"/>
       </Round>
 
@@ -2327,11 +2327,6 @@
       <Round intermission="3">
         <Enemy id="tank" count ="1" from ="door"/>
         <Enemy id="zombie" count ="5" from ="grave"/>
-      </Round>
-
-      <Round intermission="3">
-        <Enemy id="veloci" count ="3" from ="grave"/>
-        <Enemy id="dilo" count ="4" from ="door"/>
       </Round>
 
     </Level>
@@ -2348,7 +2343,7 @@
       </Round>
 
       <Round intermission="6">
-        <Enemy id="swat" count ="1" from ="door"/>
+        <Enemy id="swat" count ="104" from ="door"/>
         <Enemy id="zombie" count ="4" from ="grave"/>
       </Round>
 
@@ -2401,7 +2396,7 @@
       </Round>
 
       <Round intermission="9">
-        <Enemy id="tank" count ="2" from ="door"/>
+        <Enemy id="tank" count ="24" from ="door"/>
         <Enemy id="zombie" count ="4" from ="grave"/>
         <Enemy id="swat" count ="4" from ="door"/>
       </Round>
@@ -2500,11 +2495,11 @@
 
       <Round intermission="4">
         <Enemy id="zombie" count ="4" from ="grave"/>
-        <Enemy id="boomer" count ="2" from ="door"/>
+        <Enemy id="boomer" count ="24" from ="door"/>
       </Round>
 
       <Round intermission="6">
-        <Enemy id="tank" count ="1" from ="door"/>
+        <Enemy id="tank" count ="4" from ="door"/>
         <Enemy id="zombie" count ="4" from ="grave"/>
       </Round>
 
@@ -2569,7 +2564,7 @@
       </Round>
 
       <Round intermission="5">
-        <Enemy id="tank" count ="1" from ="door"/>
+        <Enemy id="tank" count ="12" from ="door"/>
         <Enemy id="zombie" count ="4" from ="door"/>
         <Enemy id="hellfirer" count ="2" from ="grave"/>
       </Round>
@@ -2581,7 +2576,7 @@
       </Round>
 
       <Round intermission="5">
-        <Enemy id="zombie" count ="4" from ="grave"/>
+        <Enemy id="zombie" count ="48" from ="grave"/>
       </Round>
 
       <Round intermission="5">
@@ -2607,7 +2602,7 @@
       </Round>
 
       <Round intermission="5">
-        <Enemy id="swat" count ="1" from ="door"/>
+        <Enemy id="swat" count ="120" from ="door"/>
         <Enemy id="zombie" count ="4" from ="grave"/>
       </Round>
 
@@ -2619,7 +2614,7 @@
 
       <Round intermission="6">
         <Enemy id="zombie" count ="4" from ="grave"/>
-        <Enemy id="nurse" count ="4" from ="door"/>
+        <Enemy id="nurse" count ="424" from ="door"/>
       </Round>
 
       <Round intermission="4">
@@ -2731,71 +2726,71 @@
     <Level name ="Day 30" >
 
       <Round intermission="1">
-        <Enemy id="zombie" count ="5" from ="grave"/>
+        <Enemy id="zombie" count ="256" from ="grave"/>
       </Round>
 
       <Round intermission="2">
-        <Enemy id="zombie" count ="4" from ="grave"/>
-		    <Enemy id="dog" count ="3" from ="grave"/>
+        <Enemy id="zombie" count ="48" from ="grave"/>
+		    <Enemy id="dog" count ="32" from ="grave"/>
       </Round>
 
       <Round intermission="3">
-        <Enemy id="police" count ="10" from ="door"/>
+        <Enemy id="police" count ="12" from ="door"/>
       </Round>
 
       <Round intermission="5">
-        <Enemy id="tank" count ="1" from ="door"/>
-        <Enemy id="nurse" count ="4" from ="door"/>
+        <Enemy id="tank" count ="12" from ="door"/>
+        <Enemy id="nurse" count ="48" from ="door"/>
 		    <Enemy id="hellfirer" count ="3" from ="grave"/>
       </Round>
 
       <Round intermission="5">
-        <Enemy id="zombie" count ="4" from ="grave"/>
-        <Enemy id="boomer" count ="3" from ="grave"/>
+        <Enemy id="zombie" count ="96" from ="grave"/>
+        <Enemy id="boomer" count ="24" from ="grave"/>
       </Round>
 
       <Round intermission="6">
-        <Enemy id="swat" count ="3" from ="door"/>
-        <Enemy id="boomer" count ="3" from ="grave"/>
-		    <Enemy id="dog" count ="3" from ="door"/>
-		    <Enemy id="police" count ="3" from ="grave"/>
+        <Enemy id="swat" count ="32" from ="door"/>
+        <Enemy id="boomer" count ="32" from ="grave"/>
+		    <Enemy id="dog" count ="32" from ="door"/>
+		    <Enemy id="police" count ="32" from ="grave"/>
       </Round>
 
       <Round intermission="4">
-        <Enemy id="zombie" count ="5" from ="grave"/>
+        <Enemy id="zombie" count ="24" from ="grave"/>
       </Round>
 
       <Round intermission="6">
-        <Enemy id="zombie" count ="4" from ="grave"/>
+        <Enemy id="zombie" count ="40" from ="grave"/>
         <Enemy id="hellfirer" count ="4" from ="grave"/>
       </Round>
 
       <Round intermission="4">
-        <Enemy id="nurse" count ="3" from ="door"/>
-        <Enemy id="zombie" count ="5" from ="grave"/>
-		    <Enemy id="police" count ="3" from ="grave"/>
+        <Enemy id="nurse" count ="32" from ="door"/>
+        <Enemy id="zombie" count ="56" from ="grave"/>
+		    <Enemy id="police" count ="24" from ="grave"/>
       </Round>
 
       <Round intermission="6">
-        <Enemy id="zombie" count ="4" from ="grave"/>
-        <Enemy id="swat" count ="1" from ="door"/>
-	    	<Enemy id="dog" count ="3" from ="door"/>
-	    	<Enemy id="police" count ="2" from ="door"/>
+        <Enemy id="zombie" count ="12" from ="grave"/>
+        <Enemy id="boomer" count ="1" from ="door"/>
+	    	<Enemy id="dog" count ="24" from ="door"/>
+	    	<Enemy id="police" count ="12" from ="door"/>
       </Round>
 
       <Round intermission="7">
-        <Enemy id="tank" count ="1" from ="door"/>
-        <Enemy id="zombie" count ="4" from ="grave"/>
+        <Enemy id="tank" count ="24" from ="door"/>
+        <Enemy id="zombie" count ="40" from ="grave"/>
 	    	<Enemy id="police" count ="5" from ="door"/>
       </Round>
 
       <Round intermission="5">
-        <Enemy id="zombie" count ="6" from ="grave"/>
+        <Enemy id="zombie" count ="8" from ="grave"/>
 	    	<Enemy id="hellfirer" count ="3" from ="door"/>
       </Round>
 
       <Round intermission="5">
-        <Enemy id="swat" count ="3" from ="door"/>
+        <Enemy id="swat" count ="32" from ="door"/>
         <Enemy id="zombie" count ="5" from ="door"/>
       </Round>
 
@@ -2803,11 +2798,6 @@
         <Enemy id="zombie" count ="4" from ="grave"/>
 	    	<Enemy id="dog" count ="3" from ="grave"/>
 		    <Enemy id="police" count ="4" from ="grave"/>
-      </Round>
-
-      <Round intermission="4">
-        <Enemy id="veloci" count ="3" from ="grave"/>
-        <Enemy id="dilo" count ="4" from ="door"/>
       </Round>
 
     </Level>
