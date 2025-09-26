@@ -2,44 +2,33 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 3
+  serializedVersion: 6
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: hit_blood
-  m_Shader: {fileID: 4800000, guid: c596244af6004ea4980b082218eb41f0, type: 3}
+  m_Shader: {fileID: 4800000, guid: c313fe0e43a7e3142a9129d3f5998a08, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
   m_SavedProperties:
-    serializedVersion: 2
+    serializedVersion: 3
     m_TexEnvs:
-    - first:
-        name: _MainTex
-      second:
+    - _MainTex:
         m_Texture: {fileID: 2800000, guid: d4a66537d4fc8674f94f545f653b86ba, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - first:
-        name: _Alpha
-      second: 0.5
-    - first:
-        name: R
-      second: 1
-    - first:
-        name: G
-      second: 1
-    - first:
-        name: B
-      second: 1
-    - first:
-        name: _InvFade
-      second: 1
+    - B: 1
+    - G: 1
+    - R: 1
+    - _Alpha: 0.5
+    - _InvFade: 1
     m_Colors:
-    - first:
-        name: _Color
-      second: {r: 1, g: 1, b: 1, a: 0.47058824}
-    - first:
-        name: _TintColor
-      second: {r: 1, g: 0, b: 0, a: 0.5019608}
-    - first:
-        name: clrBase
-      second: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 0.47058824}
+    - _TintColor: {r: 1, g: 0, b: 0, a: 0.5019608}
+    - clrBase: {r: 1, g: 1, b: 1, a: 1}

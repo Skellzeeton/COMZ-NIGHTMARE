@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class LockUnlock : MonoBehaviour {
 	void Start(){
-		Application.targetFrameRate = 240;
+		Application.targetFrameRate = 60;
 		DontDestroyOnLoad(base.gameObject);
 	}
 	void Update () {

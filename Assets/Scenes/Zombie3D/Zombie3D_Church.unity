@@ -19776,7 +19776,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BackGroundColor: {r: 0.3372549, g: 0.3372549, b: 0.3372549, a: 1}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -19784,7 +19784,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.3
-  far clip plane: 1000
+  far clip plane: 50
   field of view: 100
   orthographic: 0
   orthographic size: 50
@@ -40506,11 +40506,11 @@ RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 8
   m_Fog: 1
-  m_FogColor: {r: 0.11764705, g: 0, b: 0, a: 1}
-  m_FogMode: 3
-  m_FogDensity: 0.025
-  m_LinearFogStart: 0
-  m_LinearFogEnd: 300
+  m_FogColor: {r: 0.33823532, g: 0.33823532, b: 0.33823532, a: 1}
+  m_FogMode: 1
+  m_FogDensity: 0.25
+  m_LinearFogStart: 25
+  m_LinearFogEnd: 25.01
   m_AmbientSkyColor: {r: 0, g: 0, b: 0, a: 1}
   m_AmbientEquatorColor: {r: 0, g: 0, b: 0, a: 1}
   m_AmbientGroundColor: {r: 0, g: 0, b: 0, a: 1}
@@ -42387,8 +42387,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 883
-    height: 306
+    width: 1280
+    height: 800
 --- !u!114 &2369
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48359,7 +48359,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Static: 1
   material: {fileID: 0}
-  frameName: CommonButtonSS_p
+  frameName: CommonButtonSS_n
   color: {r: 1, g: 1, b: 1, a: 1}
   flipX: 0
   flipY: 0
@@ -53519,7 +53519,8 @@ Prefab:
       propertyPath: m_Layer
       value: 11
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 11100000, guid: 2a5bc32ecd05a30468ef3f36c481786b, type: 3}
   m_ParentPrefab: {fileID: 100100000, guid: 2a5bc32ecd05a30468ef3f36c481786b, type: 3}
   m_IsPrefabParent: 0
 --- !u!1 &2011114189 stripped
