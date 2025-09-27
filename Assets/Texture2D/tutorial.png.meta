@@ -32,9 +32,9 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    wrapU: 2
+    wrapV: 2
+    wrapW: 2
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -60,7 +60,7 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 3
-    compressionQuality: 39
+    compressionQuality: 0
     crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
@@ -80,7 +80,7 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 3
-    compressionQuality: 39
+    compressionQuality: 0
     crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0
@@ -90,7 +90,7 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 3
-    compressionQuality: 39
+    compressionQuality: 0
     crunchedCompression: 1
     allowsAlphaSplitting: 0
     overridden: 0

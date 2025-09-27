@@ -32,7 +32,7 @@ namespace Zombie3D
 			ComputeAttributes(gConfig.GetMonsterConfig("Dog"));
 			if (base.IsElite)
 			{
-				mAttributes.attackRange = 2f;
+				mAttributes.attackRange = 2.2f;
 			}
 			TimerManager.GetInstance().SetTimer(6, 8f, true);
 		}

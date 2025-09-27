@@ -7,25 +7,25 @@
   <Global avatar_hpBuyPrice_a="1.50344" avatar_hpBuyPrice_b="1" avatar_hpBuyPrice_k="1.2" />
 
   <Avatars>
-    <Avatar name="Human" damageInitial="95" damageFinal="750" hpInitial="450" hpFinal="4850" speedInitial="9" speedFinal="10.5" isCrystalBuy ="0" unlockDay="0" price="400" hpWeight="1" hpPriceWeight="1" />
-    <Avatar name="Worker" damageInitial="140" damageFinal="1250" hpInitial="420" hpFinal="5750" speedInitial="9" speedFinal="11" isCrystalBuy ="0" unlockDay="0" price="30000" hpWeight="1.1" hpPriceWeight="1.1" />
-    <Avatar name="Nerd" damageInitial="140" damageFinal="900" hpInitial="650" hpFinal="6125" speedInitial="10" speedFinal="12" isCrystalBuy ="0" unlockDay="5" price="40000" hpWeight="1.15" hpPriceWeight="1.15" />
-    <Avatar name="Doctor" damageInitial="90" damageFinal="600" hpInitial="600" hpFinal="4500" speedInitial="9" speedFinal="10.5" isCrystalBuy ="0" unlockDay="9" price="120000" hpWeight="1.25" hpPriceWeight="1.25" />
-    <Avatar name="Cowboy" damageInitial="190" damageFinal="1850" hpInitial="750" hpFinal="6300" speedInitial="10" speedFinal="13" isCrystalBuy ="1" unlockDay="5" price="10" hpWeight="1.3" hpPriceWeight="1.3" />
-    <Avatar name="Swat" damageInitial="95" damageFinal="1425" hpInitial="925" hpFinal="9500" speedInitial="9.5" speedFinal="12" isCrystalBuy ="0" unlockDay="12" price="280000" hpWeight="1.35" hpPriceWeight="1.35" />
-    <Avatar name="Marine" damageInitial="180" damageFinal="1800" hpInitial="1780" hpFinal="2800" speedInitial="9" speedFinal="11" isCrystalBuy ="0" unlockDay="16" price="250000" hpWeight="1.4" hpPriceWeight="1.4" />
-    <Avatar name="EnegyArmor" damageInitial="100" damageFinal="800" hpInitial="1250" hpFinal="10250" speedInitial="8.5" speedFinal="12" isCrystalBuy ="1" unlockDay="50" price="199" hpWeight="1.9" hpPriceWeight="1.9" />
-    <Avatar name="Pirate" damageInitial="220" damageFinal="240" hpInitial="2800" hpFinal="3200" speedInitial="9" speedFinal="11" isCrystalBuy ="1" unlockDay="20" price="60" hpWeight="1.6" hpPriceWeight="1.6" />
-    <Avatar name="Ninja" damageInitial="180" damageFinal="210" hpInitial="2200" hpFinal="3000" speedInitial="10" speedFinal="13" isCrystalBuy ="0" unlockDay="21" price="400000" hpWeight="1.5" hpPriceWeight="1.5" />
-    <Avatar name="Pastor" damageInitial="230" damageFinal="250" hpInitial="3000" hpFinal="3400" speedInitial="11" speedFinal="11" isCrystalBuy ="1" unlockDay="25" price="80" hpWeight="1.7" hpPriceWeight="1.7" />
-    <Avatar name="Eskimo" damageInitial="270" damageFinal="270" hpInitial="3600" hpFinal="3600" speedInitial="11" speedFinal="12" isCrystalBuy ="1" unlockDay="35" price="100" hpWeight="1.8" hpPriceWeight="1.8" />
-    <Avatar name="Evil" damageInitial="270" damageFinal="290" hpInitial="3500" hpFinal="3900" speedInitial="12" speedFinal="12" isCrystalBuy ="1" unlockDay="50" price="149" hpWeight="1.95" hpPriceWeight="1.95" />
-    <Avatar name="Hunter" damageInitial="170" damageFinal="200" hpInitial="2800" hpFinal="2800" speedInitial="11" speedFinal="11" isCrystalBuy ="1" unlockDay="50" price="149" hpWeight="2.1" hpPriceWeight="2.1" />
-    <Avatar name="HumanPixel" damageInitial="145" damageFinal="280" hpInitial="350" hpFinal="3500" speedInitial="9.5" speedFinal="12" isCrystalBuy ="0" unlockDay="2" price="5000" hpWeight="1.4" hpPriceWeight="1.4" />
-    <Avatar name="LanboPixel" damageInitial="280" damageFinal="280" hpInitial="4000" hpFinal="4000" speedInitial="12" speedFinal="12" isCrystalBuy ="1" unlockDay="50" price="149" hpWeight="2" hpPriceWeight="2" />
-    <Avatar name="TechSilver" damageInitial="290" damageFinal="290" hpInitial="4800" hpFinal="4800" speedInitial="12" speedFinal="12" isCrystalBuy ="1" unlockDay="50" price="219" hpWeight="2.4" hpPriceWeight="2.4" />
-    <Avatar name="TechGold" damageInitial="350" damageFinal="350" hpInitial="5500" hpFinal="5500" speedInitial="13" speedFinal="13" isCrystalBuy ="1" unlockDay="50" price="289" hpWeight="2.75" hpPriceWeight="2.75" />
-    <Avatar name="Mike" damageInitial="250" damageFinal="300" hpInitial="3500" hpFinal="4500" speedInitial="11" speedFinal="12" isCrystalBuy ="1" unlockDay="50" price="289" hpWeight="2.2" hpPriceWeight="2.2" />
+    <Avatar name="Human" damageInitial="95" damageFinal="750" hpInitial="450" hpFinal="4850" speedInitial="9.75" speedFinal="11.25" isCrystalBuy ="0" unlockDay="0" price="400" hpWeight="1" hpPriceWeight="1" />
+    <Avatar name="Worker" damageInitial="140" damageFinal="1250" hpInitial="420" hpFinal="5750" speedInitial="9.75" speedFinal="11.75" isCrystalBuy ="0" unlockDay="0" price="30000" hpWeight="1.1" hpPriceWeight="1.1" />
+    <Avatar name="Nerd" damageInitial="140" damageFinal="900" hpInitial="650" hpFinal="6125" speedInitial="10.75" speedFinal="12.75" isCrystalBuy ="0" unlockDay="5" price="40000" hpWeight="1.15" hpPriceWeight="1.15" />
+    <Avatar name="Doctor" damageInitial="90" damageFinal="600" hpInitial="600" hpFinal="4500" speedInitial="9.75" speedFinal="11.75" isCrystalBuy ="0" unlockDay="9" price="120000" hpWeight="1.25" hpPriceWeight="1.25" />
+    <Avatar name="Cowboy" damageInitial="190" damageFinal="1850" hpInitial="750" hpFinal="6300" speedInitial="10.75" speedFinal="13.75" isCrystalBuy ="1" unlockDay="5" price="10" hpWeight="1.3" hpPriceWeight="1.3" />
+    <Avatar name="Swat" damageInitial="95" damageFinal="1425" hpInitial="925" hpFinal="9500" speedInitial="10.25" speedFinal="12.75" isCrystalBuy ="0" unlockDay="12" price="280000" hpWeight="1.35" hpPriceWeight="1.35" />
+    <Avatar name="Marine" damageInitial="180" damageFinal="1800" hpInitial="1780" hpFinal="2800" speedInitial="9.75" speedFinal="11.75" isCrystalBuy ="0" unlockDay="16" price="250000" hpWeight="1.4" hpPriceWeight="1.4" />
+    <Avatar name="EnegyArmor" damageInitial="100" damageFinal="800" hpInitial="1250" hpFinal="10250" speedInitial="9.25" speedFinal="12.75" isCrystalBuy ="1" unlockDay="50" price="199" hpWeight="1.9" hpPriceWeight="1.9" />
+    <Avatar name="Pirate" damageInitial="220" damageFinal="240" hpInitial="2800" hpFinal="3200" speedInitial="9.75" speedFinal="11.75" isCrystalBuy ="1" unlockDay="20" price="60" hpWeight="1.6" hpPriceWeight="1.6" />
+    <Avatar name="Ninja" damageInitial="180" damageFinal="210" hpInitial="2200" hpFinal="3000" speedInitial="10.75" speedFinal="13.75" isCrystalBuy ="0" unlockDay="21" price="400000" hpWeight="1.5" hpPriceWeight="1.5" />
+    <Avatar name="Pastor" damageInitial="230" damageFinal="250" hpInitial="3000" hpFinal="3400" speedInitial="11.75" speedFinal="11.75" isCrystalBuy ="1" unlockDay="25" price="80" hpWeight="1.7" hpPriceWeight="1.7" />
+    <Avatar name="Eskimo" damageInitial="270" damageFinal="270" hpInitial="3600" hpFinal="3600" speedInitial="11.75" speedFinal="12.75" isCrystalBuy ="1" unlockDay="35" price="100" hpWeight="1.8" hpPriceWeight="1.8" />
+    <Avatar name="Evil" damageInitial="270" damageFinal="290" hpInitial="3500" hpFinal="3900" speedInitial="12.75" speedFinal="12.75" isCrystalBuy ="1" unlockDay="50" price="149" hpWeight="1.95" hpPriceWeight="1.95" />
+    <Avatar name="Hunter" damageInitial="170" damageFinal="200" hpInitial="2800" hpFinal="2800" speedInitial="11.75" speedFinal="11.75" isCrystalBuy ="1" unlockDay="50" price="149" hpWeight="2.1" hpPriceWeight="2.1" />
+    <Avatar name="HumanPixel" damageInitial="145" damageFinal="280" hpInitial="350" hpFinal="3500" speedInitial="10.25" speedFinal="12.75" isCrystalBuy ="0" unlockDay="2" price="5000" hpWeight="1.4" hpPriceWeight="1.4" />
+    <Avatar name="LanboPixel" damageInitial="280" damageFinal="280" hpInitial="4000" hpFinal="4000" speedInitial="12.75" speedFinal="12.75" isCrystalBuy ="1" unlockDay="50" price="149" hpWeight="2" hpPriceWeight="2" />
+    <Avatar name="TechSilver" damageInitial="290" damageFinal="290" hpInitial="4800" hpFinal="4800" speedInitial="12.75" speedFinal="12.75" isCrystalBuy ="1" unlockDay="50" price="219" hpWeight="2.4" hpPriceWeight="2.4" />
+    <Avatar name="TechGold" damageInitial="350" damageFinal="350" hpInitial="5500" hpFinal="5500" speedInitial="13.75" speedFinal="13.75" isCrystalBuy ="1" unlockDay="50" price="289" hpWeight="2.75" hpPriceWeight="2.75" />
+    <Avatar name="Mike" damageInitial="250" damageFinal="300" hpInitial="3500" hpFinal="4500" speedInitial="11.75" speedFinal="12.75" isCrystalBuy ="1" unlockDay="50" price="289" hpWeight="2.2" hpPriceWeight="2.2" />
 
   </Avatars>
 	
@@ -37,12 +37,12 @@
     <Monster_Endless_Computing a1="1" b1="3.8" a2="20" b2="6" a3="50" b3="20" a4="150" b4="10" n1="5" n2="10" n3="15" n4="30" o="300"/>
     <Monster_MaxLoot_Expected_Computing day1="10" day2="80" day3="120" a1="20" a2="30" a3="50" b1="1.111111" b2="0.285714" b3="0.75"/>
     
-    <Monster name="Zombie" hpWeight="12.25" damageWeight="27.5" lootWeight="0.4" attackFrequency="1.1" walkSpeed="25.75"/>
+    <Monster name="Zombie" hpWeight="13.25" damageWeight="27.5" lootWeight="0.4" attackFrequency="1.1" walkSpeed="25.75"/>
     <Monster name="Nurse" hpWeight="16.5" damageWeight="275" lootWeight="0.3" attackFrequency="0.3" walkSpeed="11.25"/>
     <Monster name="Tank" hpWeight="85" damageWeight="500" lootWeight="8" attackFrequency="2.2" walkSpeed="22" rushSpeed="260" rushDamage="15000" rushAttack="5" rushRate="1"/>
     <Monster name="Boomer" hpWeight="0.1" damageWeight="30000" lootWeight="0.1" attackFrequency="1" walkSpeed="16.5"/>
     <Monster name="Swat" hpWeight="20.5" damageWeight="2500" lootWeight="0.1" attackFrequency="3" walkSpeed="512"/>
-    <Monster name="Dog" hpWeight="15.75" damageWeight="25.5" lootWeight="0.2" attackFrequency="2" walkSpeed="18"/>
+    <Monster name="Dog" hpWeight="15.75" damageWeight="25.5" lootWeight="0.2" attackFrequency="2" walkSpeed="18.25"/>
     <Monster name="Police" hpWeight="22.5" damageWeight="10000" lootWeight="0.25" attackFrequency="3.5" walkSpeed="10.8"/>
     <Monster name="HellFirer" hpWeight="18" damageWeight="12" lootWeight="12" attackFrequency="1.5" walkSpeed="10"/>
     <Monster name="Veloci" hpWeight="14" damageWeight="4" lootWeight="0.25" attackFrequency="3" walkSpeed="16"/>

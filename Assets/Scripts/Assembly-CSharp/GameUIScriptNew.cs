@@ -348,9 +348,15 @@ public class GameUIScriptNew : MonoBehaviour, TUIHandler, ITutorialGameUI
 			{
 				player.InputController.InputInfo.fire = Input.GetMouseButton(0);
 			}
-			player.InputController.InputInfo.moveDirection = new Vector3(Input.GetAxis("Horizontal"), 0f, Input.GetAxis("Vertical"));
-			player.InputController.InputInfo.moveDirection = player.GetTransform().TransformDirection(player.InputController.InputInfo.moveDirection);
-			player.InputController.InputInfo.moveDirection += Physics.gravity * Time.deltaTime * 20f;
+			Vector3 inputDir = new Vector3(Input.GetAxis("Horizontal"), 0f, Input.GetAxis("Vertical"));
+			if (inputDir.sqrMagnitude > 1f)
+			{
+				inputDir.Normalize();
+			}
+			inputDir *= 1f;
+			Vector3 worldDir = player.GetTransform().TransformDirection(inputDir);
+			worldDir += Physics.gravity * Time.deltaTime * 20f;
+			player.InputController.InputInfo.moveDirection = worldDir;
 			player.SetMoveDirection();
 			player.InputController.InputInfo.IsMoving = Input.GetKey("w") || Input.GetKey("a") || Input.GetKey("s") || Input.GetKey("d");
 		}
