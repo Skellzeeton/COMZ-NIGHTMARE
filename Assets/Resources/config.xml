@@ -1,6 +1,6 @@
 <Config>
 
-  <Global avatarUpgradeMaxLevel="30" avatarHpBuyMaxLevel="30" weaponUpgradeMidLevel="30" weaponUpgradeMaxLevel="60"/>
+  <Global avatarUpgradeMaxLevel="30" avatarHpBuyMaxLevel="30" weaponUpgradeMidLevel="30" weaponUpgradeMaxLevel="30"/>
   <Global player_upgradeExp_a="711.9048" player_upgradeExp_b="1288.0952" player_upgradeExp_k="2"/>
   <Global weapon_upgradePrice_a="52.05" weapon_upgradePrice_b="1151" weapon_upgradePrice_c="-562.1" weapon_upgradeDelta_d="2" weapon_upgrade_q="1.045"/>
   <Global avatar_hpBuy_a="10.11084" avatar_hpBuy_b="29.66749" avatar_hpBuy_c="10.22167" />
@@ -14,18 +14,18 @@
     <Avatar name="Cowboy" damageInitial="190" damageFinal="1850" hpInitial="750" hpFinal="6300" speedInitial="10" speedFinal="13" isCrystalBuy ="1" unlockDay="5" price="10" hpWeight="1.3" hpPriceWeight="1.3" />
     <Avatar name="Swat" damageInitial="95" damageFinal="1425" hpInitial="925" hpFinal="9500" speedInitial="9.5" speedFinal="12" isCrystalBuy ="0" unlockDay="12" price="280000" hpWeight="1.35" hpPriceWeight="1.35" />
     <Avatar name="Marine" damageInitial="180" damageFinal="1800" hpInitial="1780" hpFinal="2800" speedInitial="9" speedFinal="11" isCrystalBuy ="0" unlockDay="16" price="250000" hpWeight="1.4" hpPriceWeight="1.4" />
-    <Avatar name="EnegyArmor" damageInitial="100" damageFinal="800" hpInitial="1250" hpFinal="10250" speedInitial="8.5" speedFinal="12" isCrystalBuy ="1" unlockDay="0" price="199" hpWeight="1.9" hpPriceWeight="1.9" />
-    <Avatar name="Pirate" damageInitial="220" damageFinal="240" hpInitial="2800" hpFinal="3200" speedInitial="9" speedFinal="11" isCrystalBuy ="1" unlockDay="0" price="60" hpWeight="1.6" hpPriceWeight="1.6" />
+    <Avatar name="EnegyArmor" damageInitial="100" damageFinal="800" hpInitial="1250" hpFinal="10250" speedInitial="8.5" speedFinal="12" isCrystalBuy ="1" unlockDay="50" price="199" hpWeight="1.9" hpPriceWeight="1.9" />
+    <Avatar name="Pirate" damageInitial="220" damageFinal="240" hpInitial="2800" hpFinal="3200" speedInitial="9" speedFinal="11" isCrystalBuy ="1" unlockDay="20" price="60" hpWeight="1.6" hpPriceWeight="1.6" />
     <Avatar name="Ninja" damageInitial="180" damageFinal="210" hpInitial="2200" hpFinal="3000" speedInitial="10" speedFinal="13" isCrystalBuy ="0" unlockDay="21" price="400000" hpWeight="1.5" hpPriceWeight="1.5" />
     <Avatar name="Pastor" damageInitial="230" damageFinal="250" hpInitial="3000" hpFinal="3400" speedInitial="11" speedFinal="11" isCrystalBuy ="1" unlockDay="25" price="80" hpWeight="1.7" hpPriceWeight="1.7" />
     <Avatar name="Eskimo" damageInitial="270" damageFinal="270" hpInitial="3600" hpFinal="3600" speedInitial="11" speedFinal="12" isCrystalBuy ="1" unlockDay="35" price="100" hpWeight="1.8" hpPriceWeight="1.8" />
     <Avatar name="Evil" damageInitial="270" damageFinal="290" hpInitial="3500" hpFinal="3900" speedInitial="12" speedFinal="12" isCrystalBuy ="1" unlockDay="50" price="149" hpWeight="1.95" hpPriceWeight="1.95" />
     <Avatar name="Hunter" damageInitial="170" damageFinal="200" hpInitial="2800" hpFinal="2800" speedInitial="11" speedFinal="11" isCrystalBuy ="1" unlockDay="50" price="149" hpWeight="2.1" hpPriceWeight="2.1" />
     <Avatar name="HumanPixel" damageInitial="145" damageFinal="280" hpInitial="350" hpFinal="3500" speedInitial="9.5" speedFinal="12" isCrystalBuy ="0" unlockDay="2" price="5000" hpWeight="1.4" hpPriceWeight="1.4" />
-    <Avatar name="LanboPixel" damageInitial="280" damageFinal="280" hpInitial="4000" hpFinal="4000" speedInitial="12" speedFinal="12" isCrystalBuy ="1" unlockDay="0" price="149" hpWeight="2" hpPriceWeight="2" />
-    <Avatar name="TechSilver" damageInitial="290" damageFinal="290" hpInitial="4800" hpFinal="4800" speedInitial="12" speedFinal="12" isCrystalBuy ="1" unlockDay="0" price="219" hpWeight="2.4" hpPriceWeight="2.4" />
-    <Avatar name="TechGold" damageInitial="350" damageFinal="350" hpInitial="5500" hpFinal="5500" speedInitial="13" speedFinal="13" isCrystalBuy ="1" unlockDay="0" price="289" hpWeight="2.75" hpPriceWeight="2.75" />
-    <Avatar name="Mike" damageInitial="250" damageFinal="300" hpInitial="3500" hpFinal="4500" speedInitial="11" speedFinal="12" isCrystalBuy ="1" unlockDay="0" price="289" hpWeight="2.2" hpPriceWeight="2.2" />
+    <Avatar name="LanboPixel" damageInitial="280" damageFinal="280" hpInitial="4000" hpFinal="4000" speedInitial="12" speedFinal="12" isCrystalBuy ="1" unlockDay="50" price="149" hpWeight="2" hpPriceWeight="2" />
+    <Avatar name="TechSilver" damageInitial="290" damageFinal="290" hpInitial="4800" hpFinal="4800" speedInitial="12" speedFinal="12" isCrystalBuy ="1" unlockDay="50" price="219" hpWeight="2.4" hpPriceWeight="2.4" />
+    <Avatar name="TechGold" damageInitial="350" damageFinal="350" hpInitial="5500" hpFinal="5500" speedInitial="13" speedFinal="13" isCrystalBuy ="1" unlockDay="50" price="289" hpWeight="2.75" hpPriceWeight="2.75" />
+    <Avatar name="Mike" damageInitial="250" damageFinal="300" hpInitial="3500" hpFinal="4500" speedInitial="11" speedFinal="12" isCrystalBuy ="1" unlockDay="50" price="289" hpWeight="2.2" hpPriceWeight="2.2" />
 
   </Avatars>
 	
@@ -37,17 +37,17 @@
     <Monster_Endless_Computing a1="1" b1="3.8" a2="20" b2="6" a3="50" b3="20" a4="150" b4="10" n1="5" n2="10" n3="15" n4="30" o="300"/>
     <Monster_MaxLoot_Expected_Computing day1="10" day2="80" day3="120" a1="20" a2="30" a3="50" b1="1.111111" b2="0.285714" b3="0.75"/>
     
-    <Monster name="Zombie" hpWeight="10.25" damageWeight="22.5" lootWeight="0.7" attackFrequency="1.1" walkSpeed="25.75"/>
-    <Monster name="Nurse" hpWeight="13.5" damageWeight="225" lootWeight="0.85" attackFrequency="0.3" walkSpeed="11.25"/>
-    <Monster name="Tank" hpWeight="75" damageWeight="500" lootWeight="11" attackFrequency="2.2" walkSpeed="22" rushSpeed="260" rushDamage="15000" rushAttack="5" rushRate="1"/>
-    <Monster name="Boomer" hpWeight="0.1" damageWeight="30000" lootWeight="0.25" attackFrequency="1" walkSpeed="16.5"/>
-    <Monster name="Swat" hpWeight="18.5" damageWeight="2500" lootWeight="3.5" attackFrequency="3" walkSpeed="512"/>
-    <Monster name="Dog" hpWeight="13.75" damageWeight="25.5" lootWeight="2.25" attackFrequency="2" walkSpeed="18"/>
-    <Monster name="Police" hpWeight="15" damageWeight="200000" lootWeight="2.75" attackFrequency="3.5" walkSpeed="10.8"/>
-    <Monster name="HellFirer" hpWeight="18" damageWeight="12" lootWeight="6" attackFrequency="1.5" walkSpeed="10"/>
-    <Monster name="Veloci" hpWeight="14" damageWeight="4" lootWeight="0.375" attackFrequency="3" walkSpeed="16"/>
-    <Monster name="Dilo" hpWeight="1" damageWeight="10" lootWeight="0.3" attackFrequency="1.8" walkSpeed="9"/>
-    <Monster name="SuperDino" hpWeight="14" damageWeight="5000" lootWeight="20" attackFrequency="4" walkSpeed="8" rushSpeed="8" rushDamage="300" dashSpeed="40" dashDamage="500"/>
+    <Monster name="Zombie" hpWeight="12.25" damageWeight="27.5" lootWeight="0.4" attackFrequency="1.1" walkSpeed="25.75"/>
+    <Monster name="Nurse" hpWeight="16.5" damageWeight="275" lootWeight="0.3" attackFrequency="0.3" walkSpeed="11.25"/>
+    <Monster name="Tank" hpWeight="85" damageWeight="500" lootWeight="8" attackFrequency="2.2" walkSpeed="22" rushSpeed="260" rushDamage="15000" rushAttack="5" rushRate="1"/>
+    <Monster name="Boomer" hpWeight="0.1" damageWeight="30000" lootWeight="0.1" attackFrequency="1" walkSpeed="16.5"/>
+    <Monster name="Swat" hpWeight="20.5" damageWeight="2500" lootWeight="0.1" attackFrequency="3" walkSpeed="512"/>
+    <Monster name="Dog" hpWeight="15.75" damageWeight="25.5" lootWeight="0.2" attackFrequency="2" walkSpeed="18"/>
+    <Monster name="Police" hpWeight="22.5" damageWeight="10000" lootWeight="0.25" attackFrequency="3.5" walkSpeed="10.8"/>
+    <Monster name="HellFirer" hpWeight="18" damageWeight="12" lootWeight="12" attackFrequency="1.5" walkSpeed="10"/>
+    <Monster name="Veloci" hpWeight="14" damageWeight="4" lootWeight="0.25" attackFrequency="3" walkSpeed="16"/>
+    <Monster name="Dilo" hpWeight="1" damageWeight="10" lootWeight="0.35" attackFrequency="1.8" walkSpeed="9"/>
+    <Monster name="SuperDino" hpWeight="14" damageWeight="5000" lootWeight="100" attackFrequency="4" walkSpeed="8" rushSpeed="8" rushDamage="300" dashSpeed="40" dashDamage="500"/>
     <Monster name="Hunter" hpWeight="5" damageWeight="2" attackFrequency="2" walkSpeed="12" rushDamage="20" lootWeight="1.5"/>
   </Monsters>
 
@@ -470,7 +470,7 @@
       <VSFrequencyPara base="0.18" delta="-0.003"/>
     </Weapon>
     
-    <Weapon name="M4" type="AssaultRifle" moveSpeedDrag="1.4" range ="16" price ="240000" initBullet="800" bulletPrice="1500" bullet="2500" startEquip = "0" crystalBuy ="1" unlockLevel ="10">
+    <Weapon name="M4" type="AssaultRifle" moveSpeedDrag="1.4" range ="16" price ="240000" initBullet="800" bulletPrice="1500" bullet="2500" startEquip = "0" crystalBuy ="0" unlockLevel ="10">
       <AttributesUpgrade damageInitial="71.5" damageFinal="242.5" frequencyInitial="0.2" frequencyFinal="0.1" accuracyInitial="70" accuracyFinal="105" priceWeight="1.15"/>
       <VSDamagePara base="31.6" delta="2.541" delta2="14.033"/>
       <VSFrequencyPara base="0.2" delta="-0.003"/>
@@ -482,7 +482,7 @@
       <VSFrequencyPara base="0.25" delta="-0.004"/>
     </Weapon>
 
-    <Weapon name="AUG" type="AssaultRifle" moveSpeedDrag="1.2" range ="15" price ="5" initBullet="800" bulletPrice="4500" bullet="2500" startEquip = "1" crystalBuy ="1" unlockLevel ="0">
+    <Weapon name="AUG" type="AssaultRifle" moveSpeedDrag="1.2" range ="15" price ="5" initBullet="800" bulletPrice="4500" bullet="2500" startEquip = "1" crystalBuy ="1" unlockLevel ="15">
       <AttributesUpgrade damageInitial="138.5" damageFinal="450" frequencyInitial="0.2" frequencyFinal="0.1" accuracyInitial="75" accuracyFinal="94.4" priceWeight="2.8"/>
       <VSDamagePara base="30" delta="2.031" delta2="11.85"/>
       <VSFrequencyPara base="0.18" delta="-0.003"/>
@@ -494,14 +494,14 @@
       <VSFrequencyPara base="1" delta="-0.013"/>
     </Weapon>
     
-    <Weapon name="XM-1014" type="ShotGun" moveSpeedDrag="1.4" range ="6.0" price ="150000" initBullet="500" bulletPrice="1500" bullet="500" startEquip = "0" crystalBuy ="0" unlockLevel ="5">
-      <AttributesUpgrade damageInitial="175.4" damageFinal="725.5" frequencyInitial="0.5" frequencyFinal="0.5" accuracyInitial="55" accuracyFinal="88.5" priceWeight="2.2"/>
+    <Weapon name="XM-1014" type="ShotGun" moveSpeedDrag="1.4" range ="6.0" price ="250000" initBullet="500" bulletPrice="1500" bullet="500" startEquip = "0" crystalBuy ="0" unlockLevel ="5">
+      <AttributesUpgrade damageInitial="175.4" damageFinal="575.5" frequencyInitial="0.5" frequencyFinal="0.25" accuracyInitial="55" accuracyFinal="88.5" priceWeight="2.2"/>
       <VSDamagePara base="90.9" delta="12.096" delta2="61.447"/>
       <VSFrequencyPara base="0.85" delta="-0.011"/>
     </Weapon>
     
     <Weapon name="Remington-870" type="ShotGun" moveSpeedDrag="1.5" range ="5.5" price ="12" initBullet="500" bulletPrice="6000" bullet="500" startEquip = "1" crystalBuy ="1" unlockLevel ="15">
-      <AttributesUpgrade damageInitial="265" damageFinal="780.5" frequencyInitial="0.5" frequencyFinal="0.2" accuracyInitial="50" accuracyFinal="115" priceWeight="4"/>
+      <AttributesUpgrade damageInitial="265" damageFinal="780.5" frequencyInitial="0.5" frequencyFinal="0.25" accuracyInitial="50" accuracyFinal="115" priceWeight="4"/>
       <VSDamagePara base="171.4" delta="15.107" delta2="81.27"/>
       <VSFrequencyPara base="1.2" delta="-0.019"/>
     </Weapon>
@@ -525,7 +525,7 @@
     </Weapon>
 
     <Weapon name="Laser" type="LaserGun" moveSpeedDrag="1.3" range ="200" price ="900000" initBullet="3000" bulletPrice="4000" bullet="2000" flySpeed="0" startEquip = "0" crystalBuy ="0" unlockLevel ="15">
-      <AttributesUpgrade damageInitial="40.2" damageFinal="280.2" frequencyInitial="0.1" frequencyFinal="0.1" accuracyInitial="100" accuracyFinal="100" priceWeight="2.8"/>
+      <AttributesUpgrade damageInitial="40.2" damageFinal="270.2" frequencyInitial="0.1" frequencyFinal="0.1" accuracyInitial="100" accuracyFinal="100" priceWeight="2.8"/>
       <VSDamagePara base="15" delta="2.913" delta2="13.333"/>
       <VSFrequencyPara base="0.1" delta="0"/>
     </Weapon>
@@ -566,7 +566,7 @@
       <VSFrequencyPara base="1" delta="0"/>
     </Weapon>
 
-    <Weapon name="Crossbow" type="Crossbow" moveSpeedDrag="2.5" range ="3" price ="90" initBullet="200" bulletPrice="8000" bullet="200" flySpeed="50" startEquip = "1" crystalBuy ="1" unlockLevel ="0">
+    <Weapon name="Crossbow" type="Crossbow" moveSpeedDrag="2.5" range ="3" price ="90000" initBullet="200" bulletPrice="8000" bullet="200" flySpeed="50" startEquip = "1" crystalBuy ="1" unlockLevel ="5000">
       <AttributesUpgrade damageInitial="620.2" damageFinal="2750.475" frequencyInitial="1" frequencyFinal="0.5" accuracyInitial="100" accuracyFinal="100" priceWeight="5"/>
       <VSDamagePara base="120" delta="7.355" delta2="44.447"/>
       <VSFrequencyPara base="1.2" delta="-0.024"/>
@@ -584,13 +584,13 @@
       <VSFrequencyPara base="1" delta="0"/>
     </Weapon>
 
-    <Weapon name="Longinus-Silver" type="M32" moveSpeedDrag="2.5" range ="3" price ="20500000" initBullet="500" bulletPrice="160000" bullet="500" flySpeed="20" startEquip = "1" crystalBuy ="0" unlockLevel ="100">
+    <Weapon name="Longinus-Silver" type="M32" moveSpeedDrag="2.5" range ="3" price ="40500000" initBullet="500" bulletPrice="160000" bullet="500" flySpeed="20" startEquip = "1" crystalBuy ="0" unlockLevel ="100">
       <AttributesUpgrade damageInitial="1192.4" damageFinal="7354" frequencyInitial="1" frequencyFinal="0.5" accuracyInitial="100" accuracyFinal="100" priceWeight="7.5"/>
       <VSDamagePara base="270" delta="48.162" delta2="222.22"/>
       <VSFrequencyPara base="1.8" delta="-0.028"/>
     </Weapon>
 
-    <Weapon name="Longinus-Gold" type="ElectricGun" moveSpeedDrag="2.5" range ="3" price ="60000000" initBullet="200" bulletPrice="220000" bullet="100" flySpeed="50" startEquip = "1" crystalBuy ="1" unlockLevel ="100">
+    <Weapon name="Longinus-Gold" type="ElectricGun" moveSpeedDrag="2.5" range ="3" price ="90000000" initBullet="200" bulletPrice="220000" bullet="100" flySpeed="50" startEquip = "1" crystalBuy ="0" unlockLevel ="100">
       <AttributesUpgrade damageInitial="1850" damageFinal="8275" frequencyInitial="1" frequencyFinal="0.4" accuracyInitial="100" accuracyFinal="100" priceWeight="8"/>
       <VSDamagePara base="284.2" delta="52.897" delta2="242.423"/>
       <VSFrequencyPara base="1.8" delta="-0.028"/>
@@ -602,7 +602,7 @@
     <Item type ="SmallHp" price ="50" isCrystalBuy ="0" buyCount ="1" lastDuration="0"/>
     <Item type ="BigHp" price ="1" isCrystalBuy ="1" buyCount ="1" lastDuration="0"/>
     <Item type ="Shield" price ="5" isCrystalBuy ="1" buyCount ="1" lastDuration="15"/>
-    <Item type ="Power" price ="500" isCrystalBuy ="0" buyCount ="1" lastDuration="25"/>
+    <Item type ="Power" price ="100000" isCrystalBuy ="0" buyCount ="1" lastDuration="25"/>
     <Item type ="InstantStealth" price ="8" isCrystalBuy ="1" buyCount ="1" lastDuration="25"/>
     <Item type ="InstantSuper" price ="1000" isCrystalBuy ="1" buyCount ="1" lastDuration="250"/>
     <Item type ="SuicideGun" price ="12500" isCrystalBuy="0" buyCount="0" lastDuration="0"/> 
@@ -627,9 +627,9 @@
     </Instance_BonusItems>
 
 
-    <Instance_Enemy_Spawn_Control waveId1="1" waveId2="5" waveId3="10" waveId4="40" enemyCount1="270" enemyCount2="360" enemyCount3="450" enemyCount4="600" enemyDelta1="2.5" enemyDelta2="2" enemyDelta3="0.67" />
+    <Instance_Enemy_Spawn_Control waveId1="1" waveId2="5" waveId3="10" waveId4="40" enemyCount1="75" enemyCount2="85" enemyCount3="100" enemyCount4="125" enemyDelta1="2.5" enemyDelta2="2" enemyDelta3="0.67" />
     <Instance_Loot_Adjust cashAdjust="0.125" expAdjust="0.5" scoreAdjust="6.67" />
-    <Instance_Time_Control timeBase="220" timeAdd="220" bossWaveInterval="1" />
+    <Instance_Time_Control timeBase="330" timeAdd="330" bossWaveInterval="1" />
   </InstanceMode>
   
   <EnemySpawns>
@@ -1039,22 +1039,22 @@
       </Round>
 
       <Round intermission="4">
-        <Enemy id="swat" count ="4" from ="grave"/>
-		    <Enemy id="dog" count ="4" from ="grave"/>
-		    <Enemy id="nurse" count ="15" from ="grave"/>
+        <Enemy id="swat" count ="40" from ="grave"/>
+		    <Enemy id="dog" count ="40" from ="grave"/>
+		    <Enemy id="nurse" count ="48" from ="grave"/>
       </Round>
 
       <Round intermission="3">
-        <Enemy id="swat" count ="24" from ="grave"/>
+        <Enemy id="swat" count ="48" from ="grave"/>
       </Round>
 
       <Round intermission="3">
-        <Enemy id="tank" count ="1" from ="grave"/>
+        <Enemy id="tank" count ="4" from ="grave"/>
         <Enemy id="boomer" count ="24" from ="door"/>
       </Round>
 
       <Round intermission="3">
-        <Enemy id="zombie" count ="3" from ="grave"/>
+        <Enemy id="zombie" count ="32" from ="grave"/>
       </Round>
 
       <Round intermission="5">
@@ -1100,9 +1100,9 @@
       </Round>
 
       <Round intermission="3">
-        <Enemy id="tank" count ="1" from ="grave"/>
+        <Enemy id="tank" count ="4" from ="grave"/>
 		    <Enemy id="dog" count ="32" from ="grave"/>
-		    <Enemy id="boomer" count ="12" from ="grave"/>
+		    <Enemy id="boomer" count ="16" from ="grave"/>
       </Round>
 
       <Round intermission="6">
@@ -1688,17 +1688,17 @@
     <Level name ="Day 20" >
 
       <Round intermission="1">
-        <Enemy id="zombie" count ="12" from ="grave"/>
+        <Enemy id="zombie" count ="24" from ="grave"/>
       </Round>
 
       <Round intermission="2">
-        <Enemy id="zombie" count ="4" from ="grave"/>
-		    <Enemy id="dog" count ="4" from ="grave"/>
-		    <Enemy id="boomer" count ="8" from ="grave"/>
+        <Enemy id="zombie" count ="40" from ="grave"/>
+		    <Enemy id="dog" count ="40" from ="grave"/>
+		    <Enemy id="boomer" count ="16" from ="grave"/>
       </Round>
 
       <Round intermission="3">
-        <Enemy id="zombie" count ="16" from ="grave"/>
+        <Enemy id="zombie" count ="32" from ="grave"/>
 		    <Enemy id="dog" count ="32" from ="door"/>
 		    <Enemy id="police" count ="48" from ="door"/>
       </Round>
@@ -1709,7 +1709,7 @@
       </Round>
 
       <Round intermission="7">
-        <Enemy id="swat" count ="12" from ="door"/>
+        <Enemy id="swat" count ="120" from ="door"/>
         <Enemy id="zombie" count ="24" from ="grave"/>
       </Round>
 
@@ -1733,14 +1733,14 @@
       </Round>
 
       <Round intermission="4">
-        <Enemy id="zombie" count ="4" from ="grave"/>
-		    <Enemy id="dog" count ="4" from ="door"/>
-		    <Enemy id="police" count ="4" from ="door"/>
+        <Enemy id="zombie" count ="40" from ="grave"/>
+		    <Enemy id="dog" count ="40" from ="door"/>
+		    <Enemy id="police" count ="40" from ="door"/>
       </Round>
 
       <Round intermission="6">
-        <Enemy id="zombie" count ="4" from ="grave"/>
-        <Enemy id="zombie" count ="4" from ="grave"/>
+        <Enemy id="zombie" count ="40" from ="grave"/>
+        <Enemy id="zombie" count ="40" from ="grave"/>
       </Round>
 
       <Round intermission="4">
@@ -1750,20 +1750,20 @@
 
       <Round intermission="6">
         <Enemy id="zombie" count ="12" from ="grave"/>
-        <Enemy id="swat" count ="4" from ="door"/>
+        <Enemy id="swat" count ="40" from ="door"/>
       </Round>
 
       <Round intermission="5">
-        <Enemy id="swat" count ="8" from ="door"/>
-        <Enemy id="zombie" count ="12" from ="door"/>
+        <Enemy id="tank" count ="8" from ="door"/>
+        <Enemy id="boomer" count ="12" from ="door"/>
 		    <Enemy id="dog" count ="4" from ="grave"/>
 		    <Enemy id="police" count ="12" from ="grave"/>
       </Round>
 
       <Round intermission="3">
-        <Enemy id="zombie" count ="4" from ="grave"/>
-		    <Enemy id="dog" count ="4" from ="door"/>
-		    <Enemy id="police" count ="2" from ="door"/>
+        <Enemy id="tank" count ="4" from ="grave"/>
+		    <Enemy id="boomer" count ="4" from ="door"/>
+		    <Enemy id="police" count ="24" from ="door"/>
       </Round>
 
     </Level>
@@ -2233,8 +2233,8 @@
       <Round intermission="7">
         <Enemy id="zombie" count ="12" from ="grave"/>
         <Enemy id="boomer" count ="96" from ="grave"/>
-		    <Enemy id="dog" count ="8" from ="door"/>
-		    <Enemy id="police" count ="8" from ="grave"/>
+		    <Enemy id="dog" count ="24" from ="door"/>
+		    <Enemy id="police" count ="96" from ="grave"/>
       </Round>
 
       <Round intermission="5">
@@ -2244,7 +2244,7 @@
       </Round>
 
       <Round intermission="4">
-        <Enemy id="zombie" count ="40" from ="grave"/>
+        <Enemy id="zombie" count ="48" from ="grave"/>
 		    <Enemy id="dog" count ="56" from ="door"/>
       </Round>
 
@@ -2260,7 +2260,7 @@
 
       <Round intermission="4">
         <Enemy id="boomer" count ="16" from ="grave"/>
-        <Enemy id="zombie" count ="4" from ="grave"/>
+        <Enemy id="zombie" count ="16" from ="grave"/>
 		    <Enemy id="police" count ="24" from ="grave"/>
       </Round>
 
@@ -2281,7 +2281,7 @@
 
       <Round intermission="6">
         <Enemy id="boomer" count ="8" from ="door"/>
-        <Enemy id="zombie" count ="24" from ="grave"/>
+        <Enemy id="tank" count ="24" from ="grave"/>
 		    <Enemy id="police" count ="24" from ="grave"/>
       </Round>
 
@@ -2306,12 +2306,12 @@
 
       <Round intermission="4">
         <Enemy id="zombie" count ="4" from ="grave"/>
-		    <Enemy id="dog" count ="3" from ="door"/>
+		    <Enemy id="dog" count ="32" from ="door"/>
       </Round>
 
       <Round intermission="4">
-        <Enemy id="nurse" count ="24" from ="grave"/>
-        <Enemy id="zombie" count ="5" from ="grave"/>
+        <Enemy id="nurse" count ="240" from ="grave"/>
+        <Enemy id="zombie" count ="8" from ="grave"/>
       </Round>
 
       <Round intermission="4">
@@ -2325,8 +2325,8 @@
       </Round>
 
       <Round intermission="3">
-        <Enemy id="tank" count ="1" from ="door"/>
-        <Enemy id="zombie" count ="5" from ="grave"/>
+        <Enemy id="tank" count ="2" from ="door"/>
+        <Enemy id="zombie" count ="8" from ="grave"/>
       </Round>
 
     </Level>

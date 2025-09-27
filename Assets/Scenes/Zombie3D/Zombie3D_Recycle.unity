@@ -11864,7 +11864,7 @@ Camera:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1
+    width: 0.99999994
     height: 1
   near clip plane: -128
   far clip plane: 128
@@ -31748,8 +31748,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1148
-    height: 606
+    width: 756
+    height: 306
 --- !u!114 &1573
 MonoBehaviour:
   m_ObjectHideFlags: 0

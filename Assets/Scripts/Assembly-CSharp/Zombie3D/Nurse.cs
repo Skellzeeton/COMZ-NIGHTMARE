@@ -31,13 +31,13 @@ namespace Zombie3D
 			base.Init(gObject);
 			hitParticles = rConfig.hitparticles;
 			lineR = enemyObject.GetComponent<Renderer>() as LineRenderer;
-			mAttributes.attackRange = 1000f;
+			mAttributes.attackRange = 10000f;
 			RandomRunAnimation();
 			ComputeAttributes(gConfig.GetMonsterConfig("Nurse"));
 			if (base.IsElite)
 			{
 				mAttributes.MoveSpeed += 1.5f;
-				animation[runAnimationName].speed = 1.2f;
+				animation[runAnimationName].speed = 3.6f;
 			}
 			TimerManager.GetInstance().SetTimer(1, 12f, true);
 		}
